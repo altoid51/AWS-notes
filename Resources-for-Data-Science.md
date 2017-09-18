@@ -1,6 +1,3 @@
-# Resources for Data Science
-(Have something to add to this list? Slack Nichole @nlbennett and let her know)
-
 ## Programming (General)
 * [Giving and Receiving Technical Help](https://www.youtube.com/watch?v=hY14Er6JX2s)
 
