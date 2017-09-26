@@ -30,7 +30,7 @@ You will need to clone this repository to your computer. We will update it as th
 
 If you have any questions about the organization of resources or about the scope of our curriculum, feel free ask at anytime!
 
-## Expectations as Agreed Upon by DSI-ATX-3
+## Expectations as Agreed Upon by DSI-EAST-1
 - We would like to encourage community by eating together and perhaps having breakfasts, etc.
 - No headphones on during lecture.
 - Close laptops when guests or other students are presenting.

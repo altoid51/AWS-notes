@@ -7,4 +7,4 @@
 - [[Installing Anaconda on EC2|Installing-Anaconda-on-EC2]]
 - [[Installing Git on EC2|Installing-Git-on-EC2]]
 - [[Setting up Jupyter Notebook|Jupyter-on-EC2]]
-- [[Terminating and EC2 Instance|Terminating-EC2-Instance]]
+- [[Terminating an EC2 Instance|Terminating-EC2-Instance]]
