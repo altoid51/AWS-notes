@@ -40,3 +40,7 @@ If you have any questions about the organization of resources or about the scope
 - Stepping out for phone interviews is fine. Be sure to give guest presenters a heads up.
 - The instructor will allow for both internal and external processing of information.
 - +/- 10 minutes late to class, and not to make a habit of it. 
+
+## Outcomes 
+Outcomes will work with you each week to prepare you for your job search. 
+[Everything you need to know about Outcomes can be found here](https://github.com/ga-students/ga-dsiplus), and individual lessons and HWs are in your class calendar. We are so excited to work with you! 
