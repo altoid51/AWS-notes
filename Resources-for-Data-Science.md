@@ -42,8 +42,13 @@
 * [SQLBolt](https://sqlbolt.com/)
 * [Mode SQL Tutorial](https://modeanalytics.com/)
 
+## Statistics
+* [scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html) Collection of Python functions for statistical analysis and computation.
+
 ## Machine Learning
 * [Machine Learning Coursera](https://www.coursera.org/learn/machine-learning)
+* [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) (ISL) This book (which is legally available for free online) is one of the go-to resources for introductory statistical modeling and machine learning.
+* [Elements of Statistical Learning](https://statweb.stanford.edu/~tibs/ElemStatLearn/) (ESL) This book (also available freely online) is the statistical learning bible.
 * Python Machine Learning by Sebastian Raschka
 
 ## Data Science/General
